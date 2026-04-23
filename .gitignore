@@ -1,0 +1,15 @@
+# CocoaPods
+Pods/
+# Keep the workspace so `pod install` isn't required for every clone (optional — many teams commit it)
+# PhotosCleanup.xcworkspace/
+
+# Xcode / SPM
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Build
+build/
+
+# macOS
+.DS_Store
